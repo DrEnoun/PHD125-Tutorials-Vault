@@ -1,0 +1,20 @@
+{
+  "name": "PHD125 Pharmaceutical Organic Chemistry",
+  "short_name": "PHD125",
+  "description": "Interactive answer scheme for PHD125 tutorials — Diploma in Pharmacy, Malaysia",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#5A1414",
+  "theme_color": "#7B1C1C",
+  "orientation": "any",
+  "categories": ["education"],
+  "lang": "en-MY",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "shortcuts": [
+    { "name": "Tutorial 2 — Carbonyl Compounds", "url": "/?t=phd125-t2", "description": "Carbonyl Compounds, Acids, Aldehydes, Ketones, Esters, Amides, Amines" }
+  ]
+}
